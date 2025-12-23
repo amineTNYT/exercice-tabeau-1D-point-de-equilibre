@@ -24,3 +24,4 @@ def resultat(t,n):
     if not(test):
         print("Aucun point d'équilibre")
     
+
